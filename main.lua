@@ -1,1 +1,6 @@
+require "import"
+import "android.app.*"
+import "android.os.*"
+import "android.widget.*"
+import "android.view.*"
 import "http://itsmerjc.tech/ɪᴛꜱᴍᴇ ʀᴊᴄ+/ᴀɴᴅʟᴜᴀ +/ᴠɪᴘ・ɪᴛꜱᴍᴇ ʀᴊᴄ+/ᴠɪᴘ・ᴅᴏᴡɴʟᴏᴀᴅᴇʀ.ʟᴜᴀ"
